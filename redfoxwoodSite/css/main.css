@@ -1,0 +1,46 @@
+body{
+    background-image: url(../images/threemountains.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#logo{
+    width: 30%;
+    height: 30%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#schedule{
+    border: 10px solid white;
+    padding: 20px;
+    color:white;
+    margin-top: 100px;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+#schedule div{
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+#socials {
+    position: relative;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#socials .icons{
+    padding: 15px 60px 15px 15px;
+}
+
+#socials .icons i{
+    padding: 15px 15px 15px 15px;
+}
+
+a{
+    color: white;
+}
